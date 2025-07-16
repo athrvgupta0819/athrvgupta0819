@@ -70,4 +70,14 @@
 - 🔗 [LinkedIn](https://linkedin.com/in/athrv-gupta-b9a494254)  
 - 💻 [GitHub](https://github.)
 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=athrvgupta0819&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athrvgupta0819&layout=compact&theme=tokyonight" />
+</p>
+
 
