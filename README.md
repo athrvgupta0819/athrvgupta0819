@@ -34,13 +34,6 @@
 #### 🧠 Diabetes Prediction Model  
 > Built a linear regression model using Scikit-learn with 92% accuracy.  
 > Visualized key predictors using Seaborn and Matplotlib for better model explainability.
-
-#### 🚗 Lane Detection for Autonomous Navigation *(Upcoming)*  
-> Working on a real-time lane detection project using OpenCV and Hough Transform to guide simulated self-driving cars.
-
-#### 💤 Driver Drowsiness Detection *(Upcoming)*  
-> A system that monitors eye/face landmarks using Dlib to prevent road accidents by issuing real-time alerts.
-
 ---
 
 ### 📜 Certifications
